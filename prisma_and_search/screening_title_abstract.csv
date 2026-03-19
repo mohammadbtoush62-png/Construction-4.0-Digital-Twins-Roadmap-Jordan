@@ -1,1 +1,57 @@
-ID,Title,Authors,Year,Abstract,Source_DB,Reviewer1_decision,Reviewer1_reason,Reviewer2_decision
+ID,Title,Authors,Year,Abstract,Source_DB
+1,"Building Information Modelling (BIM) adoption and implementation enablers in AEC firms: A systematic literature review","Abbasnejad, B.; Nepal, M. P.; Ahankoob, A.; Nasirian, A.; Drogemuller, R.",2021,,seed
+2,"BIM curriculum design in architecture, engineering, and construction education: A systematic review","Abdirad, H.; Dossick, C. S.",2016,,seed
+3,"Leveraging Artificial Intelligence in Project Management: A Systematic Review of Applications, Challenges, and Future Directions","Adamantiadou, D. S.; Tsironis, L.",2025,,seed
+4,"Improving forecasting accuracy of project earned value metrics: Linear modeling approach","Chen, H. L.",2014,,seed
+5,"Artificial intelligence and smart vision for building and construction 4.0: Machine and deep learning methods and applications","Baduge, S. K.; Arashpour, M.; Thilakarathna, S.; Sharafi, P.; Perera, J. S.; Teodosio, B.; Shringi, A.; Mendis, P.",2022,,seed
+6,"Construction industry 4.0 and sustainability: An enabling framework","Balasubramanian, S.; Shukla, V.; Islam, N.; Manghat, S.",2021,,seed
+7,"Artificial intelligence for deconstruction: Current state, challenges, and opportunities","Balogun, H.; Alaka, H.; Demir, E.; Sulaimon, I.; Egwim, C. N.; Olu Ajayi, R.; Oseghale, R.",2024,,seed
+8,"Explainable machine learning for construction risk in Jordan: Mixed methods evidence, GA optimized clustering, and high accuracy prediction","Bani Hani, D.; Hussein, S.; Shehadeh, A.; Al Athamneh, R.",2025,,seed
+9,"Improving project forecast accuracy by integrating earned value management with exponential smoothing and reference class forecasting","Batselier, J.; Vanhoucke, M.",2017,,seed
+10,"Digital technologies in architecture, engineering, and construction","Brozovsky, J.; Labonnote, N.; Vigren, O.",2024,,seed
+11,"Pedagogy, Symbolic Control, and Identity: Theory, Research, Critique","Bernstein, B.",2000,,seed
+12,"Using design thinking to embrace the complexities of teacher learning practice with digital technologies","Blundell, C. N.",2024,,seed
+13,"Design thinking and digital teacher learning practice",Probable citation (see manuscript),2025,,seed
+14,"How innovation champions frame the future: Three visions for digital transformation of construction","Ernstsen, S. N.; Whyte, J.; Thuesen, C.; Maier, A.",2021,,seed
+15,"Construction 4.0: A literature review","Forcael, E.; Ferrari, I.; Opazo Vega, A.; Pulido Arcas, J. A.",2020,,seed
+16,"Are we ready for Education 4.0 within ASEAN higher education institutions?","Jamaludin, R.; McKay, E.; Ledger, S.",2020,,seed
+17,"Understanding BIM information management processes through international BIM standards","Alhusban, M.",2021,,seed
+18,"BIM curriculum implementation in undergraduate construction management","Ghosh, A.; Kristen, P.; Chasey, A. D.",2015,,seed
+19,"Risk allocation in public construction projects: The case of Jordan","Hiyassat, M. A.; Alkasagi, F.; El Mashaleh, M.; Sweis, G. J.",2022,,seed
+20,"Digital twin applications for overcoming construction supply chain challenges","Bakhshi, S.; Ghaffarianhoseini, A.; Ghaffarianhoseini, A.; Najafi, M.; Rahimian, F.; Park, C.; Lee, D.",2024,,seed
+21,"Virtual worlds in AECO operations: Towards a human centric framework","Proboste Martinez, M.; Serrano, J. M.; La Rivera, M. M. F.",2025,,seed
+22,"Extending the Technology Acceptance Model (TAM) to predict university students’ intentions to use metaverse based learning platforms","Al Adwan, A. S.; Li, N.; Al Adwan, A.; Abbasi, G. A.; Albelbisi, N. A.; Habibi, A.",2023,,seed
+23,"Students’ perception of employing social media in the educational process in the light of Education 4.0 requirements","Al Hamad, N.; Salem, H.; Al Omari, F.",2022,,seed
+24,"Predicting construction cost index using fuzzy logic and machine learning in Jordan","Al Kailani, H.; Sweis, G. J.; Sammour, F.; Maaitah, W. O.; Sweis, R. J.; Alkailani, M.",2024,,seed
+25,"Understanding BIM acceptance and learning experiences","Ahankoob et al. (related citations in manuscript)",2025,,seed
+26,"BIM Acceptance and Learning Experiences / TAM analyses",Sacks et al. related,2010,,seed
+27,"Awareness and willingness to adopt Construction 4.0 technologies: Evidence from Jordan","Alwashah, Z.; Sweis, G. J.; Abu Hajar, H.; Abu Khader, W.; Sweis, R.",2025,,seed
+28,"A new Building Information Modelling probabilistic model based on artificial intelligence to optimize residential buildings energy efficiency in Jordan","Mahasneh, J.; Almigbel, T.",2024,,seed
+29,"Automated data driven method for creating digital building models from dense point clouds and images","Mehranfar, M.; Vega Torres, M. A.; Braun, A.; Borrmann, A.",2024,,seed
+30,"Topological BIM for building performance management","Massafra, A.; Jabi, W.; Gulli, R.",2024,,seed
+31,"Contextual classification of building components using deep neural networks","Teclaw, W.; Tomczak, A.; Kasznia, M.; Luczkowski, M.; Labonnote, N.; Hjelseth, E.",2025,,seed
+32,"Digital twins in offsite construction: Current implementations, challenges, and future pathways","Moghimi, N.; Arshang, O.; Hamzeh, F.",2026,,seed
+33,"Modeling heterogeneous spatiotemporal pavement data for condition prediction and preventive maintenance in digital twin enabled highway management","Lu, L.; d’Avigneau, A. M.; Pan, Y.; Sun, Z.; Luo, P.; Brilakis, I.",2025,,seed
+34,"Graph neural networks for building and civil infrastructure operation and maintenance enhancement","Wettewa, S.; Hou, L.; Zhang, G.",2024,,seed
+35,"Automating the retrospective generation of as is BIM models using machine learning","Schönfelder, P.; Aziz, A.; Faltin, B.; König, M.",2023,,seed
+36,"Digital technologies in architecture, engineering, and construction (Automation in Construction)","Brozovsky, J.; Labonnote, N.; Vigren, O.",2024,,seed
+37,"The level of BIM awareness of students in the Faculty of Civil Engineering","Nechyporchuk, Y.; Bašková, R.",2020,,seed
+38,"From Industry 4.0 to Construction 4.0: Barriers to the digital transformation of engineering and construction sectors","Wang, K.; Guo, F.; Zhang, C.; Schaefer, D.",2024,,seed
+39,"Construction 4.0 technologies and applications: A systematic literature review of trends and potential areas for development","Statsenko, L.; Samaraweera, A.; Bakhshi, J.; Chileshe, N.",2023,,seed
+40,"A taxonomy for the future of learning: Defining Education 4.0","World Economic Forum",2023,,seed
+41,"Applying a modified technology acceptance model to qualitatively analyse the factors affecting microblogging integration","Luo, T.; Moore, D. R.; Franklin, T.; Crompton, H.",2019,,seed
+42,"Improving forecasting accuracy of project earned value metrics: Linear modeling approach","Chen, H. L.",2014,,seed
+43,"AI in Smart Buildings and Construction 4.0: Implementation areas and influencing factors in construction organizations","Zhang, Q.; Wang, L.",2025,,seed
+44,"Strategic alignment of BIM and big data through systematic analysis and model development","Sompolgrunk, A.; Banihashemi, S.; Golzad, H.; Le Nguyen, K.",2024,,seed
+45,"Advancements in 3D digital model generation for digital twins in industrial environments: Knowledge gaps and future directions","Kamali, M.; Atazadeh, B.; Rajabifard, A.; Chen, Y.",2024,,seed
+46,"Digital twin applications for overcoming construction supply chain challenges","Bakhshi et al. (Automation in Construction)",2024,,seed
+47,"AI in automated sustainable construction engineering management","Elmousalami, H.; Maxy, M.; Hui, F. K. P.; Aye, L.",2025,,seed
+48,"AEC students’ perceptions of BIM practice at Swinburne University of Technology","Zou, P. X. W.; Xu, X.; Jin, R.; Painting, N.; Li, B.",2019,,seed
+49,"Integrating BIM in higher education programs: Barriers and remedial solutions in Australia","Casasayas, O.; Hosseini, M. R.; Edwards, D. J.; Shuchi, S.; Chowdhury, M.",2021,,seed
+50,"Defining Education 4.0: A Taxonomy for the Future of Learning","World Economic Forum",2023,,seed
+51,"The Technology Acceptance Model (TAM): A meta analytic structural equation modeling approach to explaining teachers’ adoption of digital technology in education","Scherer, R.; Siddiq, F.; Tondeur, J.",2019,,seed
+52,"Improving forecasting accuracy of project earned value metrics: Linear modeling approach (duplicate entry?)","Chen, H. L.",2014,,seed
+53,"AEC digitalisation reviews and comparative roadmaps","van der Heijden, J.; Khosrowshahi & Arayici; Yan et al. (manuscript citations)",2023,,seed
+54,"Building and Environment and Automation in Construction comparative studies","Khosrowshahi, F.; Arayici, Y.; Schönfelder, P.; Yan, J. (manuscript citations)",2012,,seed
+55,"AI in Smart Buildings and Construction: Implementation areas and influencing factors","Zhang & Wang (manuscript citations)",2025,,seed
+56,"ContextNET – Contextual classification of building components using deep neural networks","Teclaw et al. (manuscript citations)",2025,,seed
