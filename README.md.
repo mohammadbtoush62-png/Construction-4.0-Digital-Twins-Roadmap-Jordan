@@ -1,0 +1,18 @@
+Construction 4.0 & Digital Twins Roadmap — Jordan
+This repository supports Al‑Btoush et al. (2026) "Artificial Intelligence, Digital Twins and Education 4.0 in Jordan: A Phased, Expert‑Informed Roadmap". It contains PRISMA search exports, deduplication & screening logs, scripts for deduplication and inter‑rater reliability (Cohen’s kappa), PRISMA flow figure, KPI and feasibility templates, and analysis notebooks.
+
+Repository structure
+
+/prisma_and_search: raw exports, merged/dedup files, screening spreadsheets, scripts, PRISMA figure
+/manuscript_assets: figures, KPI_register.xlsx, feasibility_template.xlsx
+/code: analysis notebooks and scripts
+DATA_AVAILABILITY.md
+How to cite
+Al‑Btoush, M. A. K. A., Al‑Omari, O., Aldiabat Al‑Btoosh, J. A., Al Shalout, I., Rawashdeh, T. M., & Alsubeh, M. A. (2026). Construction 4.0, Digital Twins and Education 4.0 in Jordan: A Phased, Expert‑Informed Roadmap. DOI: [add Zenodo DOI after deposit].
+
+License
+
+Data & documentation: CC BY 4.0
+Code/scripts: MIT License
+Contact
+Corresponding author: muhammad.albtoosh@iu.edu.jo
