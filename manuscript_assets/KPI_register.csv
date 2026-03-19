@@ -1,0 +1,8 @@
+KPI,Pillar,Phase,Definition_formula,Data_source,Measurement_frequency,Baseline,Target,Notes
+IFC compliance rate,DataInfra,Phase1-2,"(# projects delivering IFC files meeting metadata checklist)/(total required) *100",CDE validation logs,Quarterly,"0-5%","40-60%","Derived from expert Delphi"
+Number of AI pilots,Priority AI,Phase1,"Count of distinct pilots deployed and reporting validation metrics",Project reports,Quarterly,0,"2-4","Phase1 target"
+Energy model RMSE reduction (%),AI_Energy,Phase1-2,"(Baseline_RMSE - Pilot_RMSE)/Baseline_RMSE *100",Smart meter vs model predictions,After 6-12 months,baseline RMSE,"10-20%","Target 15% mid-range"
+Model explainability coverage,AI_Services,Phase2,"Proportion of critical AI outputs with local explanations (e.g., SHAP)",Model serving logs,Continuous,0%,"100% for critical outputs","Critical outputs defined by Council"
+DT coverage (priority assets),DigitalTwin,Phase3,"(# priority assets with operational DT)/(total priority assets) *100",DT registry,Annual,0%,"60-80%","Priority asset list defined by ministry"
+CPD micro credentials issued/year,Edu4.0,Phase2,"Count of certified micro credentials issued to practitioners",University/CPD records,Annual,0,"~200/yr (Phase2)","Scale to 1000 cumulative by Phase3"
+% demolition projects with material passports,CE_Supply,Phase2,"(# demolition projects with passports)/(total sampled) *100",Project reports,Annual,0%,"30-50%","Sampled projects only"
